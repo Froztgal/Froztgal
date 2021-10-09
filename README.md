@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<p align="justify">
-    Hellow to everyone!
-</p>
 
 <!--
 **Froztgal/Froztgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
